@@ -28,5 +28,5 @@ Express + MongoDB backend for TaskFlow.
 ## Environment Variables
 
 PORT=5000
-MONGO_URI=your_mongodb_url
-JWT_SECRET=your_secret
+MONGO_URI=mongodb+srv://roviafelcy_db_user:Felcy.2303@cluster0.gwdoaib.mongodb.net/taskflow?retryWrites=true&w=majority&appName=Cluster0
+JWT_SECRET=felcysecretkey
